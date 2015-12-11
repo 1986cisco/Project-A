@@ -44,7 +44,25 @@ dann kommt er zum Vorkurs, bei welchem wir ein paar Einstiegsfragen an unseren U
 (Ob diese Antworten auch schon auf die Endbewertung eingehen, oder nur ein Kommentar am Ende erzeugen ist auch noch nicht geklärt).
 
 
+11.12.15
+Habe einmal die bisherigen html-Seiten größtenteils überarbeitet und nach dem Schema:
+<!doctype html> 
+<html> 
+ 
+ <head> 
+ </head> 
+ 
+ <body> 
+  <header>
+  </header>
+  
+  <main>
+  </main>
+ </body>
+ 
+</html>
 
+Außerdem habe ich die Seiten Mathe_Aufgabe, Mathe_Kartenspiel, Mathe_Sprechstunde erstellt
 
 
 
